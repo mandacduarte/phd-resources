@@ -1,6 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
-title: Sign Language Processing
-baseurl: "/sign-language-resources" # the subpath of your site, e.g. /blog
+title: PhD Resources
+baseurl: "/phd-resources" # the subpath of your site, e.g. /blog
 url: "https://mandacduarte.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Enable or disable the site search
